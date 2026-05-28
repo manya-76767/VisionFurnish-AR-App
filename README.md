@@ -1,36 +1,74 @@
-# VisionFurnish – AR Furniture Shopping App 🛋️
+# VisionFurnish – AR Furniture Shopping App
 
-VisionFurnish is an Android application that uses Augmented Reality (AR) to help users visualize furniture in their real-world environment before making a purchase.
+## Brief Description
 
-## 📌 Project Status
-🚧 In Progress
+VisionFurnish is an Android application that uses Augmented Reality (AR) technology to help users visualize furniture in real-world environments before purchasing. The application improves online furniture shopping by enabling immersive 3D placement and visualization.
 
-## 🎯 Objective
-To enhance the online furniture shopping experience by allowing users to place and view 3D furniture models in their surroundings using AR technology.
+---
 
-## 🚀 Features (Planned)
-- Real-time AR furniture placement using ARCore
-- 3D visualization of furniture in user space
-- Interactive UI for selecting and previewing products
-- Smooth user experience with modern Android UI
+## Technology Stack and Tools Used
 
-## 🛠 Tech Stack
-- Kotlin
-- Jetpack Compose
-- ARCore
-- Firebase (planned)
+* Kotlin
+* Android Studio
+* ARCore
+* Sceneform
+* Firebase
+* Git & GitHub
 
-## 🧠 Learning Goals
-- Understanding ARCore and spatial tracking
-- Building interactive UI with Jetpack Compose
-- Implementing MVVM architecture
-- Integrating backend services using Firebase
+---
 
-## 📷 Future Improvements
-- Add product catalog with categories
-- Save and share AR previews
-- Improve UI/UX design
-- Performance optimization
+## Features and Functionalities Implemented
 
-## 👩‍💻 Author
-Manya Arora
+* AR furniture placement
+* 3D object visualization
+* Interactive user interface
+* Real-time rendering
+* Responsive Android design
+* Smooth navigation experience
+
+---
+
+## Installation / Execution Steps
+
+1. Clone the repository
+2. Open project in Android Studio
+3. Sync Gradle files
+4. Run on Android device/emulator
+5. Allow camera permissions for AR features
+
+---
+
+## Team Members
+
+* Manya Arora
+* Nikita Nair
+* Mariya Mirza
+
+---
+
+## Screenshots / Output
+
+### Application Flow
+
+The image below demonstrates the complete user flow of the application including login, product browsing, shopping cart, and successful order placement.
+
+* Login Screen
+* Product Listing Screen
+* Shopping Cart
+* Order Confirmation
+
+Screenshots are available inside the `screenshots/` folder.
+
+---
+
+## AR Demonstration
+
+The AR furniture visualization demo video is available inside the `demo/` folder as:
+
+`demo.mp4`
+
+
+## Project Report
+
+Project report is available inside the `report/` folder.
+
