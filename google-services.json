@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "706911589333",
+    "project_id": "visionfurnish-444c9",
+    "storage_bucket": "visionfurnish-444c9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706911589333:android:181bcc10885fbbd327a35c",
+        "android_client_info": {
+          "package_name": "com.example.visionfurnish10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD40w5WG797HJ3F9SKFETwkPQyZtW2AOmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
